@@ -1,0 +1,40 @@
+p {
+    background-color: pink;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    color: blue;
+}
+
+a:visited {
+    color: purple;
+}
+a:hover {
+    color: green;
+}
+
+p em {
+    background-color: burlywood;
+}
+
+.contenedor h3 {
+background-color: gray;
+}
+
+h1 + p {
+    font-size: 25px;
+}
+
+#principal {
+    border: solid 2px black;
+    background-color: yellow;
+}
